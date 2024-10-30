@@ -1,4 +1,4 @@
-# Capptions Bot Slides
+# Bot Slides
 
 ## Setup
 
